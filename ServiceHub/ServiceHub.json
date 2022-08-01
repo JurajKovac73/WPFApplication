@@ -1,0 +1,7 @@
+{
+  "systemId": "system1",
+  "systemName": "My Example System",
+  "systemDescription": "System description",
+  "status": "Not stated",
+  "isRunnig": true
+}
